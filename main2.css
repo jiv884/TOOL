@@ -1,0 +1,172 @@
+body{
+  background-image: linear-gradient(rgb(226, 115, 115),rgb(233, 204, 209),rgb(177, 177, 238), rgb(184, 221, 228))
+  }
+  
+
+  
+#v1{
+  margin-left:30px;
+  margin-top:20px;
+  font-family: fantasy;
+  font-size:25px;
+  color:rgb(255, 255, 255);
+}
+
+#v20{
+  margin-left:30px;
+  margin-top:20px;
+  font-family: fantasy;
+  font-size:15px;
+  color:rgb(255, 255, 255);
+}
+
+#v2{
+  margin-left:210px;
+  margin-top:40px;
+  font-family: fantasy;
+  font-size:25px;
+  color:rgb(233, 133, 133);
+}
+
+#v3{
+  margin-left:325px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:36px;
+  color:rgb(221, 144, 144);
+}
+
+#v4{
+  margin-left:525px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:35px;
+  color:rgb(230, 139, 139);
+}
+
+#v5{
+  margin-left:420px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:25px;
+  color:rgb(238, 185, 185);
+}
+
+#v6{
+  margin-left:330px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:25px;
+  color:rgb(197, 176, 255);
+}
+
+#v7{
+  margin-left:460px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:17px;
+  color:rgb(155, 127, 231);
+}
+
+#v8{
+  margin-left:418px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:24px;
+  color:rgb(142, 109, 235);
+}
+
+#v9{
+  margin-left:426px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:27.5px;
+  color:rgb(127, 109, 175);
+}
+
+#v10{
+  margin-left:320px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:23px;
+  color:rgb(109, 98, 139);
+}
+
+#v11{
+  margin-left:440px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:21px;
+  color:rgb(136, 126, 163);
+}
+
+
+#v12{
+  margin-left:410px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:30px;
+  color:rgb(142, 133, 167);
+}
+
+#v13{
+  margin-left:365px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:25px;
+  color:rgb(135, 136, 190);
+}
+
+#v14{
+  margin-left:375px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:30px;
+  color:rgb(144, 145, 224);
+}
+
+#v15{
+  margin-left:325px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:20px;
+  color:rgb(154, 156, 250);
+}
+
+#v16{
+  margin-left:455px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:25px;
+  color:rgb(140, 157, 235);
+}
+
+#v17{
+  margin-left:472px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:30px;
+  color:rgb(136, 157, 248);
+}
+
+#v18{
+  margin-left:490px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:22.5px;
+  color:rgb(116, 156, 209);
+}
+
+#v19{
+  margin-left:585px;
+  margin-top:2px;
+  font-family: fantasy;
+  font-size:35px;
+  color:rgb(136, 184, 247);
+}
+
+
+a{
+  margin-left:10px;
+  margin-bottom:20px;
+}

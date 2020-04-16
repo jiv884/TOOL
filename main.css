@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  body{
+    background-color:#000;
+  }
+  
+  #poem1,#poem2,#poem3,#poem4,#poem5,#poem6,#poem7{
+    background-color: rgb(48, 44, 44);
+    color:white;
+    filter: blur(3px);
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+   height:45px;}
+
+   
+   @media screen and (min-width: 600px) {
+    #body{
+      background-color:black;
+      .container span{
+        text-transform: uppercase;
+        display:block;
+      }
+      #poem1,#poem2,#poem3,#poem4,#poem5,#poem6,#poem7{
+        background-color: rgb(48, 44, 44);
+        color:white;
+        filter: blur(3px);
+        font-family: 'Times New Roman', Times, serif;
+        width: 100px;
+       height:15px;}
+      
+      .container{
+        text-align: center;
+        position:absolute;
+        top:50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width:100%
+      }
+      
+      .text1{
+        color:white;
+        font-family:helvetica;
+        font-size:20px;
+        font-weight: 700;
+        letter-spacing: 4px;
+        margin-bottom: 20px;
+        background:black;
+        position:relative;
+        animation:text 10s infinite;
+      }
+      
+      .text2{
+        font-family:helvetica;
+        font-size:15px;
+        color:red;
+        animation-play-state: paused;
+      }}
+
+
+
+    
+ #poem1:hover
+   {color: white;
+   filter: blur(0px);
+   font-family: 'Times New Roman', Times, serif;
+ }
+  
+ #poem2:hover
+   {color: white;
+   filter: blur(0px);
+   font-family: 'Times New Roman', Times, serif;
+ }
+
+ #poem3:hover
+ {color: white;
+ filter: blur(0px);
+ font-family: 'Times New Roman', Times, serif;
+}
+
+#poem4:hover
+{color: white;
+filter: blur(0px);
+font-family: 'Times New Roman', Times, serif;
+}
+
+#poem5:hover
+{color: white;
+filter: blur(0px);
+font-family: 'Times New Roman', Times, serif;
+}
+
+#poem6:hover
+{color: white;
+filter: blur(0px);
+font-family: 'Times New Roman', Times, serif;
+}
+
+#poem7:hover
+{color: white;
+filter: blur(0px);
+font-family: 'Times New Roman', Times, serif;
+}
+  .container span{
+    text-transform: uppercase;
+    display:block;
+  }
+  
+  .container{
+    text-align: center;
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:100%
+  }
+  
+  .text1{
+    color:white;
+    font-family:helvetica;
+    font-size:40px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+    background:black;
+    position:relative;
+    animation:text 10s infinite;
+  }
+  
+  .text2{
+    font-family:helvetica;
+    font-size:35px;
+    color:red;
+    animation-play-state: paused;
+  }
+  
+  @keyframes text{
+    0%{
+      color:black;
+      margin-bottom: -40px;
+    }
+    30%{
+      letter-spacing:25px;
+      margin-bottom:-40px;
+    }
+    85%{
+      letter-spacing: 8px;
+      margin-bottom: -40px;
+    }
+  
+
